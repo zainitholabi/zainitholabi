@@ -72,7 +72,7 @@
 
 <h3 align="left">📈 GitHub Analytics</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainitholabi&show_icons=true&theme=radium&hide_border=true" alt="zainitholabi stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainitholabi&theme=radium&hide_border=true" alt="zainitholabi streak stats" />
 </p>
 
 <br><br><br><br><br>
