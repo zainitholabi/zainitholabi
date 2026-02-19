@@ -1,40 +1,73 @@
-# Hi there, I'm Ahmad Zaini Tholabi 👋
-### Data Analyst | Predictive Modeling & Spatial Analysis Specialist
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISRpk/giphy.gif" alt="data-banner" width="100%" style="border-radius: 10px;"/>
 
-I am an enthusiastic Data Analyst with a strong focus on data management and analytics, dedicated to helping stakeholders make accurate, data-driven decisions. By leveraging precise analysis, I uncover key business challenges and develop effective strategies. I continually refine my skills in data processing and visualization to present insights clearly—enabling better decision-making and more impactful results. 
+<h1 align="center">Hi there, I'm Ahmad Zaini Tholabi 👋</h1>
+<h3 align="center">Data Analyst | Predictive Modeling & Spatial Analysis Specialist</h3>
 
-Currently, I am focused on transforming raw, complex data into strategic business intelligence.
+<p align="center">
+  Currently, I am focused on transforming raw, complex data into strategic business intelligence.
+</p>
 
-📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainitholabi) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadzaini1908@gmail.com)
+<img align="right" alt="Data Analyst working" width="380" src="https://media.giphy.com/media/vnOQdGDOwV95O1q5Gk/giphy.gif" style="border-radius: 20px; margin-left: 20px;" />
 
----
+<p align="left">
+  I am an enthusiastic Data Analyst with a strong focus on data management and analytics, dedicated to helping stakeholders make accurate, data-driven decisions. 
+  <br><br>
+  By leveraging precise analysis, I uncover key business challenges and develop effective strategies. I continually refine my skills in data processing and visualization to present insights clearly—enabling better decision-making and more impactful results.
+</p>
 
-### 🛠️ Core Expertise & Tech Stack
+<p align="left">
+  <a href="https://linkedin.com/in/zainitholabi" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:ahmadzaini1908@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
 
-**Languages & Libraries**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<br>
 
-**Data Engineering & Cloud**
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6.svg?style=for-the-badge&logo=google&logoColor=white)
-![GA4](https://img.shields.io/badge/Google%20Analytics%204-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white)
+<h3 align="left">🛠️ Core Expertise & Tech Stack</h3>
 
-**Data Visualization & BI**
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="45" height="45"/>
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  
+  <br>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-bigquery" width="45" height="45"/>
+  </a>
+   <a href="https://analytics.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="ga4" width="45" height="45"/>
+  </a>
 
----
+  <br>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="(Note: PowerBI devicon unavailable, using placeholder or text badge preferred for accuracy)" width="45" height="45" style="opacity: 0.5;"/> </a>
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="looker-studio" width="45" height="45"/>
+  </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="45" height="45"/>
+  </a>
+</p>
 
-### 📈 GitHub Analytics
-*(Note: You can generate dynamic stats using tools like github-readme-stats)*
-![Zaini's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainitholabi&show_icons=true&theme=radium)
+<h3 align="left">📈 GitHub Analytics</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainitholabi&show_icons=true&theme=radium&hide_border=true" alt="zainitholabi stats" />
+</p>
+
+<br><br><br><br><br>
