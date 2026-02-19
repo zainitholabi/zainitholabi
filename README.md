@@ -66,7 +66,7 @@
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="looker-studio" width="45" height="45"/>
   </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="excel" width="45" height="45"/>
   </a>
 </p>
 
