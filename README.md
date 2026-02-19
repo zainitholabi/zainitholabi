@@ -7,7 +7,7 @@
   Currently, I am focused on transforming raw, complex data into strategic business intelligence.
 </p>
 
-<img align="right" alt="Data Analyst working" width="380" src="https://media.giphy.com/media/vnOQdGDOwV95O1q5Gk/giphy.gif" style="border-radius: 20px; margin-left: 20px;" />
+<img align="right" alt="Data Analyst working" width="380" src=["https://media.giphy.com/media/vnOQdGDOwV95O1q5Gk/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUyM2htMjh2bDV0OWNsOTVkMzRodDE1N25oajk1Z2x0dTJuYnpwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/75eYiA9oPXvkk/giphy.gif)" style="border-radius: 20px; margin-left: 20px;" />
 
 <p align="left">
   I am an enthusiastic Data Analyst with a strong focus on data management and analytics, dedicated to helping stakeholders make accurate, data-driven decisions. 
