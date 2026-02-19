@@ -1,4 +1,6 @@
-<img align="center" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="data-banner" width="100%" style="border-radius: 10px;"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="data-banner" width="600" style="border-radius: 15px;"/>
+</p>
 
 <h1 align="center">Hi there, I'm Ahmad Zaini Tholabi 👋</h1>
 <h3 align="center">Data Analyst | Predictive Modeling & Spatial Analysis Specialist</h3>
@@ -6,6 +8,8 @@
 <p align="center">
   Currently, I am focused on transforming raw, complex data into strategic business intelligence.
 </p>
+
+<br>
 
 <img align="right" alt="Data Analyst working" width="380" src="https://media.giphy.com/media/vnOQdGDOwV95O1q5Gk/giphy.gif" style="border-radius: 20px; margin-left: 20px;" />
 
