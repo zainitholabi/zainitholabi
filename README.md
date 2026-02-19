@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="data-banner" width="600" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif" alt="data-banner" width="600" style="border-radius: 15px;"/>
 </p>
 
 <h1 align="center">Hi there, I'm Ahmad Zaini Tholabi 👋</h1>
@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" alt="Data Analyst working" width="380" src="https://media.giphy.com/media/vnOQdGDOwV95O1q5Gk/giphy.gif" style="border-radius: 20px; margin-left: 20px;" />
+<img align="right" alt="Data Analyst working" width="380" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" style="border-radius: 20px; margin-left: 20px;" />
 
 <p align="left">
   I am an enthusiastic Data Analyst with a strong focus on data management and analytics, dedicated to helping stakeholders make accurate, data-driven decisions. 
